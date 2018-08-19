@@ -1,0 +1,3 @@
+[30-Aug-2012 10:50:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'game4buy_root' (1) in /home/game4buy/public_html/install/index.php on line 7
+[30-Aug-2012 10:50:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'game4buy_root'@'localhost' (using password: YES) in /home/game4buy/public_html/install/index.php on line 7
+[30-Aug-2012 11:03:50] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/game4buy/public_html/install/index.php on line 22
